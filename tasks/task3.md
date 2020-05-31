@@ -25,9 +25,11 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 
 
 버그수정: 
- git revert 커밋ID^
- git rebase --continue
-
+ git blaem game.js 
+ git show b0678b16
+ git reset b0678b16
+ 버그인 부분을 고친다.
+ git rebase 
 
 ### 힌트
 
