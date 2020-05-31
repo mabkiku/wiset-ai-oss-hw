@@ -15,10 +15,6 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 ![wiset-github-task2-mabkiku2](https://user-images.githubusercontent.com/63966341/83357257-483bd200-a3a6-11ea-817b-6a102ccb670d.png)
 
 
-![learn-git-branching-level-1](../resources/learn-git-branching-level1.png)
-
-![learn-git-branching-level-2](../resources/learn-git-branching-level2.png)
-
 ## 응원의 말
 
 여기 있는 명령어를 모두 외우지 않아도 괜찮습니다. git으로 어떤 작업을 할 수 있는지 정도만 알아 두었다가, 필요할 때 다시 Learn Git Branching 사이트로 돌아와 가상 환경에서 실습한 후 실무에 적용하는 개발자들이 많습니다. 겁먹지 마세요!
