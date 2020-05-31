@@ -15,9 +15,9 @@
 
 ## 과제 제출자
 
-👤 **이 보 라**
+👤 **구 경 이**
 
-* Github: [@Violet-Bora-Lee](https://github.com/Violet-Bora-Lee)
+* Github: [@mabkiku](https://github.com/mabkiku)
 
 ## Show your support
 
