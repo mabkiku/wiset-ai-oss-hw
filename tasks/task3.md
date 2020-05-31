@@ -24,7 +24,9 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 커밋ID : b0678b16 (b0678b161fcf74467ed3a63110557e3d6229cfa6)
 
 
-버그수정: git rebase 커밋ID를 이용한다.
+버그수정: 
+ git revert 커밋ID^
+ git rebase --continue
 
 
 ### 힌트
