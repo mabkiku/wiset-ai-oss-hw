@@ -25,14 +25,9 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 
 
 버그수정: 
-
- git blaem game.js 
+버그를 유발한 커밋 id: 25ede836903881848fea811df5b687b59d962da
+어떻게 하면 버그를 수정할 수 있는지: 삭제된 코드(this.delayBeforeBullet = 10;)를 복구한다.
  
- git show b0678b16
- 
- git reset b0678b16
- 
- 버그인 부분을 고친다.
 
 
 ### 힌트
